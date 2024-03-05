@@ -9,8 +9,8 @@ A list of popular science books I found most useful when researching climate cha
   * [Biodiversity](#biodiversity)
   * [Carbon Footprint](#carbon-footprint)
   * [Economics and Finance](#economics-and-finance)
+  * [Extreme Weather Events](#extreme-weather-events)
   * [History of Climate Change](#history-of-climate-change)
-  * [Natural Disasters](#natural-disasters)
   * [Natural Resources](#natural-resources)
   * [Nuclear Disasters](#nuclear-disasters)
 
@@ -53,18 +53,18 @@ A list of popular science books I found most useful when researching climate cha
 | ------------------------ | --------------- |
 | [_The Value of a Whale: On the Illusions of Green Capitalism_. Adrienne Buller. Manchester University Press, 2022.](https://uk.bookshop.org/p/books/the-value-of-a-whale-on-the-illusions-of-green-capitalism-adrienne-buller/6240211?ean=9781526162632) | ![cover](assets/the_value_of_a_whale.jpg) |
 
+## Extreme Weather Events
+
+| Title, author, publisher | Paperback cover |
+| ------------------------ | --------------- |
+| [_Fire Weather: A Story from a Hotter World_. John Vaillant. Sceptre, 2023.](https://uk.bookshop.org/p/books/fire-weather-a-true-story-from-a-hotter-world-john-vaillant/7349520?ean=9781399720199) | ![cover](assets/fire_weather.jpg) |
+
 ## History of Climate Change
 
 | Title, author, publisher | Paperback cover |
 | ------------------------ | --------------- |
 | [_Fire & Flood: A People's History of Climate Change, from 1979 to the Present_. Eugene Linden. Penguin Books, 2023.](https://uk.bookshop.org/p/books/fire-and-flood-a-people-s-history-of-climate-change-from-1979-to-the-present-eugene-linden/6342380?ean=9780141999968) | ![cover](assets/fire_and_flood.jpg) |
 | [_Losing Earth: The Decade We Could Have Stopped Climate Change_. Nathaniel Rich. Pan Macmillan, 2020.](https://uk.bookshop.org/p/books/losing-earth-the-decade-we-could-have-stopped-climate-change-nathaniel-rich/236464?ean=9781529015843) | ![cover](assets/losing_earth.jpg) |
-
-## Natural Disasters
-
-| Title, author, publisher | Paperback cover |
-| ------------------------ | --------------- |
-| [_Fire Weather: A Story from a Hotter World_. John Vaillant. Sceptre, 2023.](https://uk.bookshop.org/p/books/fire-weather-a-true-story-from-a-hotter-world-john-vaillant/7349520?ean=9781399720199) | ![cover](assets/fire_weather.jpg) |
 
 ## Natural Resources
 
