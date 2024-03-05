@@ -71,6 +71,7 @@ A list of popular science books I found most useful when researching climate cha
 | Title, author, publisher | Paperback cover |
 | ------------------------ | --------------- |
 | [_Volt Rush: The Winners and Losers in the Race to Go Green_. Henry Sanderson. Oneworld Publications, 2020.](https://uk.bookshop.org/p/books/volt-rush-the-winners-and-losers-in-the-race-to-go-green-henry-sanderson/7024599?ean=9780861546190) | ![cover](assets/volt_rush.jpg) |
+| [_The Last Drop: Solving the World's Water Crisis_. Tim Smedley. Pan Macmillan, 2023.](https://uk.bookshop.org/p/books/the-last-drop-tim-smedley/7352566?ean=9781529058147) | ![cover](assets/the_last_drop.jpg) |
 
 ## Nuclear Disasters
 
